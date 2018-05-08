@@ -1,4 +1,7 @@
 import numpy as np
 
-a = [1,2,3]
+a = [4,5,6]
 a = np.mean(a)
+
+a = a**2
+#sempre test
